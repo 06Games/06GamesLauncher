@@ -1,1 +1,38 @@
 |1 = 06Games Launcher
+
+--- Menu ---
+|2 = You are not connected to internet
+|3 = Home
+|4 = Games
+|5 = Download
+
+--- Credit ---
+|6 = Music
+|7 = Design
+|8 = Script
+|9 = Form an idea to
+|10 = Close
+
+--- Téléchargement ---
+|11 = There isn't any download at the moment
+
+--- Détail Jeu ---
+|12 = Screenshot
+|13 = Repertory
+|14 = Ok
+|15 = Cancel
+|16 = Browse
+
+--- Connection / Inscription ---
+|17 = E-Mail												   		    john.smith@smithmail.com
+|18 = Password															   			    JohnS?24
+|19 = Log In
+|20 = Sign Up
+|21 = Firstname Lastname															   			  Jonh Smith
+|22 = Birthday 															   JJ/MM/AAAA
+|23 = Validate
+|24 = Cancel
+|25 = Loading
+
+--- Accueil ---
+|26 = You are currently connected\n\nFrom now on, you will be able to fully enjoy your 06Games' games
