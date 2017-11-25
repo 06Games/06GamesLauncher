@@ -12,3 +12,24 @@
 |8 = Script
 |9 = Sur l'idée d'
 |10 = Fermer
+
+--- Téléchargement ---
+|11 = Aucun téléchargement n'est en cours
+
+--- Détail Jeu ---
+|12 = Screenshot
+|13 = Répertoire
+|14 = Ok
+|15 = Annuler
+|16 = Parcourir
+
+--- Connection / Inscription ---
+|17 = E-Mail												   		    john.smith@smithitude.com
+|18 = Mot de Passe															   			    JohnS?24
+|19 = Se Connecter
+|20 = S'Inscrire
+|21 = Prénom Nom															   			  Jonh Smith
+|22 = Date de Naissance 															   JJ/MM/AAAA
+|23 = Valider
+|24 = Retour
+|25 = Chargement\nen cours
