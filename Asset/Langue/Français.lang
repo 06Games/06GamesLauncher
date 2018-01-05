@@ -17,7 +17,8 @@
 |27 = Une Mise à jour est disponible
 
 --- Détail Jeu ---
-|12 = Screenshot
+|12 = Capture d'écran
+|10 = Description
 |13 = Répertoire
 |14 = Ok
 |15 = Annuler
@@ -40,6 +41,3 @@
 
 --- Accueil ---
 |26 = Vous êtes actuellement connecté\n\nDorénavant vous pourrez profiter pleinement\nde vos jeux 06Games
-
---- Non Utilisé ---
-|10 =

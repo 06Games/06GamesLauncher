@@ -18,6 +18,7 @@
 
 --- Détail Jeu ---
 |12 = Screenshot
+|10 = Description
 |13 = Repertory
 |14 = Ok
 |15 = Cancel
@@ -40,6 +41,3 @@
 
 --- Accueil ---
 |26 = You are currently connected\n\nFrom now on,\nyou will be able to fully enjoy your 06Games' games
-
---- Non Utilisé ---
-|10 =
