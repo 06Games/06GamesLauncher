@@ -11,7 +11,6 @@
 |7 = Design
 |8 = Script
 |9 = From an idea of
-|10 = Close
 
 --- Téléchargement ---
 |11 = No downloading at the moment
@@ -25,15 +24,22 @@
 |16 = Browse
 
 --- Connection / Inscription ---
-|17 = E-Mail												   		    john.smith@smithmail.com
-|18 = Password															   			    JohnS?24
+|17.1 = E-Mail
+|17.2 = john.smith@smithmail.com
+|18.1 = Password
+|18.2 = JohnS?24
 |19 = Log In
 |20 = Sign Up
-|21 = Firstname Lastname															   			  Jonh Smith
-|22 = Birthday 															   JJ/MM/AAAA
+|21.1 = Firstname Lastname
+|21.2 = Jonh Smith
+|22.1 = Birthday
+|22.2 = JJ/MM/AAAA
 |23 = Validate
 |24 = Cancel
 |25 = Loading
 
 --- Accueil ---
 |26 = You are currently connected\n\nFrom now on,\nyou will be able to fully enjoy your 06Games' games
+
+--- Non Utilisé ---
+|10 =

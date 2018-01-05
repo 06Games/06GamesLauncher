@@ -11,7 +11,6 @@
 |7 = Design
 |8 = Script
 |9 = Sur l'idée d'
-|10 = Fermer
 
 --- Téléchargement ---
 |11 = Aucun téléchargement n'est en cours
@@ -25,15 +24,22 @@
 |16 = Parcourir
 
 --- Connection / Inscription ---
-|17 = E-Mail												   		    john.smith@smithitude.com
-|18 = Mot de Passe															   			    JohnS?24
+|17.1 = E-Mail
+|17.2 = john.smith@smithitude.com
+|18.1 = Mot de Passe
+|18.2 = JohnS?24
 |19 = Se Connecter
 |20 = S'Inscrire
-|21 = Prénom Nom															   			  Jonh Smith
-|22 = Date de Naissance 															   JJ/MM/AAAA
+|21.1 = Prénom Nom
+|21.2 = Jonh Smith
+|22.1 = Date de Naissance
+|22.2 = JJ/MM/AAAA
 |23 = Valider
 |24 = Retour
 |25 = Chargement\nen cours
 
 --- Accueil ---
 |26 = Vous êtes actuellement connecté\n\nDorénavant vous pourrez profiter pleinement\nde vos jeux 06Games
+
+--- Non Utilisé ---
+|10 =
