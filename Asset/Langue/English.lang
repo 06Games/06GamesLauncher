@@ -41,3 +41,14 @@
 
 --- Accueil ---
 |26 = You are currently connected\n\nFrom now on,\nyou will be able to fully enjoy your 06Games' games
+
+--- Shop ---
+-> Général
+|27 = Buy
+-> Paiment
+|28 = <color=white>Online payment is currently unavailable</color>\nWe are working on its activation\n\n<i>Thank you for forgiving us for the inconvenience</i>
+|29 = Validate
+|30 = Return
+-> Fin
+|31 = Your game has been added to your collection\n\n<i><color=#D0D0D0>Thank you for choosing 06Games</color></i>
+|32 = Exit

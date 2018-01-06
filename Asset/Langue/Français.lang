@@ -41,3 +41,14 @@
 
 --- Accueil ---
 |26 = Vous êtes actuellement connecté\n\nDorénavant vous pourrez profiter pleinement\nde vos jeux 06Games
+
+--- Shop ---
+-> Général
+|27 = Acheter
+-> Paiment
+|28 = <color=white>Le paiement en ligne est actuellement indisponible</color>\nNous travaillons sur son activation\n\n<i>Merci de bien vouloir nous excuser de la gène occasionné</i>
+|29 = Valider
+|30 = Retour
+-> Fin
+|31 = Votre jeu a été ajouté à votre collection\n\n<i><color=#D0D0D0>Nous vous remercions d'avoir choisi 06Games</color></i>
+|32 = Quitter
