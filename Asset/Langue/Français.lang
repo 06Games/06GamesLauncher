@@ -54,3 +54,9 @@
 -> Fin
 |31 = Votre jeu a été ajouté à votre collection\n\n<i><color=#D0D0D0>Nous vous remercions d'avoir choisi 06Games</color></i>
 |32 = Quitter
+
+--- Mobile Menu ---
+|33.01 = Accueil
+|33.02 = Jeux
+|33.03 = Téléchargement
+|33.04 = Paramètres
