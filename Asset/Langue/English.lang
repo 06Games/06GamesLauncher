@@ -54,3 +54,10 @@
 -> Fin
 |31 = Your game has been added to your collection\n\n<i><color=#D0D0D0>Thank you for choosing 06Games</color></i>
 |32 = Exit
+
+--- Mobile Menu ---
+|33.01 = Home
+|33.02 = Games
+|33.03 = Download
+|33.04 = Settings
+|33.05 = Credits
