@@ -29,6 +29,7 @@
 |17.2 = john.smith@smithmail.com
 |18.1 = Password
 |18.2 = JohnS?24
+|35 = Save Password
 |19 = Log In
 |20 = Sign Up
 |21.1 = Firstname Lastname
@@ -58,9 +59,11 @@
 --- Mobile Menu ---
 |33.01 = Home
 |33.02 = Games
-|33.03 = Download
-|33.04 = Settings
-|33.05 = Credits
+|33.03 = Games
+|33.04 = Download
+|33.05 = Settings
+|33.06 = Credits
+|33.07 = Shop
 
 --- Settings ---
 |34.1 = Languages

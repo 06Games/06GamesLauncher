@@ -29,6 +29,7 @@
 |17.2 = john.smith@smithitude.com
 |18.1 = Mot de Passe
 |18.2 = JohnS?24
+|35 = Sauvegarder le Mot de Passe
 |19 = Se Connecter
 |20 = S'Inscrire
 |21.1 = Prénom Nom
@@ -58,9 +59,11 @@
 --- Mobile Menu ---
 |33.01 = Accueil
 |33.02 = Jeux
-|33.03 = En Cours
-|33.04 = Paramètres
-|33.05 = Crédits
+|33.03 = Jeux
+|33.04 = En Cours
+|33.05 = Paramètres
+|33.06 = Crédits
+|33.07 = Magasin
 
 --- Paramètres ---
 |34.1 = Langue
