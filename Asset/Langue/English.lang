@@ -11,12 +11,13 @@
 |7 = Design
 |8 = Script
 |9 = From an idea of
+|35 = Close
 
---- Téléchargement ---
+--- Download ---
 |11 = No downloading at the moment
 |27 = An update is available
 
---- Détail Jeu ---
+--- Show More Game ---
 |12 = Screenshot
 |10 = Description
 |13 = Repertory
@@ -24,7 +25,7 @@
 |15 = Cancel
 |16 = Browse
 
---- Connection / Inscription ---
+--- Connect / Register ---
 |17.1 = E-Mail
 |17.2 = john.smith@smithmail.com
 |18.1 = Password
@@ -42,17 +43,17 @@
 |24 = Cancel
 |25 = Loading
 
---- Accueil ---
+--- Home ---
 |26 = You are currently connected\n\nFrom now on,\nyou will be able to fully enjoy your 06Games' games
 
 --- Shop ---
--> Général
+-> General
 |27 = Buy
--> Paiment
+-> Pay
 |28 = <color=white>Online payment is currently unavailable</color>\nWe are working on its activation\n\n<i>Thank you for forgiving us for the inconvenience</i>
 |29 = Validate
 |30 = Return
--> Fin
+-> End
 |31 = Your game has been added to your collection\n\n<i><color=#D0D0D0>Thank you for choosing 06Games</color></i>
 |32 = Exit
 
