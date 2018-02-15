@@ -24,6 +24,11 @@
 |14 = Ok
 |15 = Annuler
 |16 = Parcourir
+|36.1 = Accueil
+|36.2 = Avis
+|37.1 = Soumettre un Commentaire
+|37.2 = Sujet
+|37.3 = Message
 
 --- Connection / Inscription ---
 |17.1 = E-Mail
@@ -37,8 +42,8 @@
 |21.2 = Jonh Smith
 |22.1 = Date de Naissance
 |22.2 = JJ/MM/AAAA
-|33.1 = Nom d'Utilisateur
-|33.2 = ProGamer06
+|35.1 = Nom d'Utilisateur
+|35.2 = ProGamer06
 |23 = Valider
 |24 = Retour
 |25 = Chargement\nen cours

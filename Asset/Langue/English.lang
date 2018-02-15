@@ -24,6 +24,11 @@
 |14 = Ok
 |15 = Cancel
 |16 = Browse
+|36.1 = Home
+|36.2 = Opinion
+|37.1 = Submit a Comment
+|37.2 = Subject
+|37.3 = Message
 
 --- Connect / Register ---
 |17.1 = E-Mail
@@ -37,8 +42,8 @@
 |21.2 = Jonh Smith
 |22.1 = Birthday
 |22.2 = JJ/MM/AAAA
-|33.1 = User Name
-|33.2 = ProGamer06
+|35.1 = User Name
+|35.2 = ProGamer06
 |23 = Validate
 |24 = Cancel
 |25 = Loading
